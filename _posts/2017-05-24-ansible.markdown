@@ -4,6 +4,6 @@ title: Ansible
 date: 2017-05-24 23:39
 categories: linux ansible
 ---
-I've a large number of servers to manage (not //Facebook-// or //Google-//large but still: up to a hundred), both physical and virtual. Up to now I've been doing this by hand - manually logging in to servers to add software, users and so on. Nightmarishly tedious and I find myself procrastinating something awful.
+I've a large number of servers to manage (not *Facebook-* or *Google-*large but still: up to a hundred), both physical and virtual. Up to now I've been doing this by hand - manually logging in to servers to add software, users and so on. Nightmarishly tedious and I find myself procrastinating something awful.
 
 No more though: I've been looking at various orchestration/dev-ops/whatyoumacallit systems recently and discovered that Ansible only requires software to be installed on the controller machine. That's right: none of the servers that need to be managed require any software to be installed, other than Python - which is generally installed anyway. Happy days.
