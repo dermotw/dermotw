@@ -16,7 +16,7 @@
 title: dermotw
 email: dermot@deadlocked.org
 description: > # this means to ignore newlines until "baseurl:"
- Blog? Inanely enthusiasm about things that other people discovered long ago?
+ Blog? Inane enthusiasm about things that other people discovered long ago?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dermotw.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: doctor_octagon
